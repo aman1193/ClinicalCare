@@ -2,7 +2,7 @@
 	<widget xmlns = "http://www.w3.org/ns/widgets"
 		id        = "com.myapp.cliniare"
 		versionCode=""
-		version   = "2.25">
+		version   = "2.26">
 		<name>Clinical Care Test		</name>
 		<description>Health Care		</description>
 		<author href="http://www.myapp.com" email="info@myapp.com">Amazing App Team		</author>
