@@ -19,21 +19,8 @@
 		<preference name="fullscreen" value="false" />
 		<preference name="target-device" value="handset" />
 		<preference name="webviewbounce" value="true" />
-		<preference name="prerendered-icon" value="true" />
-		<preference name="stay-in-webview" value="true" />
-		
-		<preference name="EnableViewportScale" value="true" />
-		<preference name="MediaPlaybackRequiresUserAction" value="false" />
 		<preference name="AllowInlineMediaPlayback" value="true" />
-		<preference name="BackupWebStorage" value="local" />
-		
-		
-		
-		
-		
-		<preference name="LoadUrlTimeoutValue" value="null" />
-
-
+	
   <plugin name="cordova-plugin-inappbrowser" spec="1.3.0" />
   <plugin name="cordova-plugin-device" spec="1.1.2" />
   <plugin name="cordova-plugin-splashscreen" spec="3.2.2" />
