@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.myapp.mobile" version="2.25" xmlns="http://www.w3.org/ns/widgets">
-  <name>My Amazing App</name>
-  <description>This is the best app ever.</description>
-  <author email="info@myapp.com" href="http://www.myapp.com">Amazing App Team</author>
+  <name>Clinical Care</name>
+  <description>Health Care</description>
+  <author email="amy.thumbsup1193@gmail.com" href="#">Amazing App Team</author>
   
   <feature name="http://api.phonegap.com/1.0/battery" />
 	<feature name="http://api.phonegap.com/1.0/camera" />
