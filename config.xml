@@ -19,9 +19,11 @@
 		<preference name="fullscreen" value="false" />
 		<preference name="target-device" value="universal" />
 		
+		<plugin name="cordova-plugin-inappbrowser" spec="1.3.0" />
+  		<plugin name="cordova-plugin-device" spec="1.1.2" />
+  		<plugin name="cordova-plugin-splashscreen" spec="3.2.2" />
 		
-		<platform name="android">
-		</platform>
+		
 		
 		 <icon src="icon.png" />
 		<access origin="https://tlk.io/clinicalcare" subdomains="true" />
