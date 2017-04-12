@@ -18,15 +18,11 @@
 		<preference name="orientation" value="default" />
 		<preference name="fullscreen" value="false" />
 		<preference name="target-device" value="universal" />
-		<preference name="webviewbounce" value="true" />
-		<preference name="stay-in-webview" value="true" />
-		<preference name="EnableViewportScale" value="false" />
-		<platform name="ios">
-		</platform>
+		
+		
 		<platform name="android">
 		</platform>
-		<platform name="winphone">
-		</platform>
+		
 		 <icon src="icon.png" />
 		<access origin="https://tlk.io/clinicalcare" subdomains="true" />
 		<access origin="https://tlk.io/" subdomains="true" />
