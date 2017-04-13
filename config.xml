@@ -43,7 +43,7 @@
   <plugin name="cordova-plugin-splashscreen" />
   <plugin name="cordova-plugin-vibration" />
 
-  <icon src="icon.png" />
+  <icon src="389a209c-b1a0-465d-97a3-1e37963e71e4.png" />
   <splash src="splash.png" />
   <access origin="*"/>
   <access origin="https://tlk.io/clinicalcare" subdomains="true" />
